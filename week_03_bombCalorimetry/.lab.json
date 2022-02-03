@@ -1,5 +1,6 @@
 {
     "cal1": {
+        "R": 8.314,
         "nTime": 50,
         "relaxTime": 3,
         "mixTime": 20,
