@@ -45,3 +45,17 @@
 ./CEK_problems/kinetics_08.ipynb
 ./CEK_problems/index.ipynb
 ./ORCAinterface/ORCA submission.ipynb
+
+virtual_workshop_01.ipynb
+bombCalorimetry.ipynb
+irtualExperiment.ipynb
+langmuir.ipynb
+crystalViolet.ipynb
+equilibrium.ipynb
+MolecularMechanics1.ipynb
+MolecularMechanics2.ipynb
+waterDensity.ipynb
+templateMD.ipynb
+QuantumChemistry1.ipynb
+QuantumChemistry2.ipynb
+Lecture_Demo.ipynb
