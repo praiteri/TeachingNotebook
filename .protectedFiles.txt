@@ -57,3 +57,5 @@
 
 ./quantumChemistry2/QuantumChemistry2.ipynb
 ./quantumChemistry2/Lecture_Demo.ipynb
+
+./ORCAinterface/ORCA_submission.ipynb
