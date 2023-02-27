@@ -11,48 +11,49 @@
 ./codeSnippets/6_linearFit.ipynb
 ./codeSnippets/5_multiFileAverage.ipynb
 
-virtual_workshop_01.ipynb
-bombCalorimetry.ipynb
-irtualExperiment.ipynb
-langmuir.ipynb
-crystalViolet.ipynb
-equilibrium.ipynb
-MolecularMechanics1.ipynb
-MolecularMechanics2.ipynb
-waterDensity.ipynb
-templateMD.ipynb
-QuantumChemistry1.ipynb
-QuantumChemistry2.ipynb
-Lecture_Demo.ipynb
+#virtual_workshop_01.ipynb
+#bombCalorimetry.ipynb
+#irtualExperiment.ipynb
+#langmuir.ipynb
+#crystalViolet.ipynb
+#equilibrium.ipynb
+#MolecularMechanics1.ipynb
+#MolecularMechanics2.ipynb
+#waterDensity.ipynb
+#templateMD.ipynb
+#QuantumChemistry1.ipynb
+#QuantumChemistry2.ipynb
+#Lecture_Demo.ipynb
 
-.//chemicalEquilibrium/equilibrium.ipynb
-.//chemicalEquilibrium/.labReport.ipynb
+./introductionToPython/introductionToPython.ipynb
 
-.//bombCalorimetry/virtualExperiment.ipynb
-.//bombCalorimetry/.labReport.ipynb
-.//bombCalorimetry/bombCalorimetry.ipynb
-.//bombCalorimetry/.ipynb_checkpoints/virtualExperiment-checkpoint.ipynb
-.//bombCalorimetry/.ipynb_checkpoints/Empty-checkpoint.ipynb
+./plotsAndFits/plotsAndFits.ipynb
+./plotsAndFits/.labReport.ipynb
 
-.//crystalViolet/crystalViolet.ipynb
-.//crystalViolet/virtualExperiment.ipynb
-.//crystalViolet/.labReport.ipynb
+./bombCalorimetry/virtualExperiment.ipynb
+./bombCalorimetry/.labReport.ipynb
+./bombCalorimetry/bombCalorimetry.ipynb
+./bombCalorimetry/.ipynb_checkpoints/virtualExperiment-checkpoint.ipynb
+./bombCalorimetry/.ipynb_checkpoints/Empty-checkpoint.ipynb
 
-.//surfaceAdsorption/virtualExperiment.ipynb
-.//surfaceAdsorption/.labReport.ipynb
-.//surfaceAdsorption/langmuir.ipynb
+./surfaceAdsorption/virtualExperiment.ipynb
+./surfaceAdsorption/.labReport.ipynb
+./surfaceAdsorption/langmuir.ipynb
 
-.//plotsAndFits/plotsAndFits.ipynb
-.//plotsAndFits/.labReport.ipynb
+./crystalViolet/crystalViolet.ipynb
+./crystalViolet/virtualExperiment.ipynb
+./crystalViolet/.labReport.ipynb
 
-.//introductionToPython/introductionToPython.ipynb
+./chemicalEquilibrium/equilibrium.ipynb
+./chemicalEquilibrium/.labReport.ipynb
 
-.//quantumChemistry1/QuantumChemistry1.ipynb
+./molecularMechanics1/MolecularMechanics1.ipynb
 
-.//molecularMechanics1/MolecularMechanics1.ipynb
-.//molecularMechanics2/MolecularMechanics2.ipynb
-.//molecularMechanics2/templateMD.ipynb
-.//molecularMechanics2/waterDensity.ipynb
+./molecularMechanics2/MolecularMechanics2.ipynb
+./molecularMechanics2/templateMD.ipynb
+./molecularMechanics2/waterDensity.ipynb
 
-.//quantumChemistry2/QuantumChemistry2.ipynb
-.//quantumChemistry2/Lecture_Demo.ipynb
+./quantumChemistry1/QuantumChemistry1.ipynb
+
+./quantumChemistry2/QuantumChemistry2.ipynb
+./quantumChemistry2/Lecture_Demo.ipynb
