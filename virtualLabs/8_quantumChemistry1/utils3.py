@@ -394,7 +394,7 @@ def finite_well_plot(E,V,xvec,steps,n,Case,U,param,ask_to_save=False,ask_squared
     # set y label
     plt.ylabel('Energy / (a.u.)')
     # modify tick marks
-    ax.set_yticklabels(np.round(ax.yaxis.get_ticklocs()*ScaleFactor,decimals=2))
+    
     # add plot legend
     L=plt.legend(bbox_to_anchor=(1.05,1),loc=2,borderaxespad=0.)
     box=ax.get_position()
