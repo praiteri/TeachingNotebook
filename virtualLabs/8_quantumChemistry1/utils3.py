@@ -330,7 +330,7 @@ def infinite_well_plot(E,V,xvec,W,steps,n,Case,ask_to_save=False,ask_squared=Fal
     # set y label
     plt.ylabel('Energy / (a.u.)')
     # modify tick marks
-    ax.set_yticklabels(np.round(ax.yaxis.get_ticklocs()*ScaleFactor))
+    #ax.set_yticklabels(np.round(ax.yaxis.get_ticklocs()*ScaleFactor))
     # add plot legend
     L=plt.legend(bbox_to_anchor=(1.05,1),loc=2,borderaxespad=0.)
     box=ax.get_position()
@@ -454,7 +454,7 @@ def Kronig_Penney_Plot(E,V,xvec,steps,n,Case,U,ask_to_save=False,ask_squared=Fal
     # set y label
     plt.ylabel('Energy / (a.u.)')
     # modify tick marks
-    ax.set_yticklabels(np.round(ax.yaxis.get_ticklocs()*ScaleFactor))
+    #ax.set_yticklabels(np.round(ax.yaxis.get_ticklocs()*ScaleFactor))
     # add plot legend
     L=plt.legend(bbox_to_anchor=(1.05,1),loc=2,borderaxespad=0.)
     box=ax.get_position()
